@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**BillyErMago/BillyErMago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Billal 👋
 
-Here are some ideas to get you started:
+### 🎓 MSc in Computer & Robotics Engineering | 🕹️ Game Dev & Graphics Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Computer & Robotics Engineer with a strong foundation in **Electronics**, **Computer Vision/AI**, and **Software Architecture**, passionate about **Game Development** and **Interactive Graphics**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuo-profilo)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tua-email@dominio.com)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 **Education:** Master's Degree in **Computer & Robotics Engineering** | Bachelor's Degree in **Computer & Electronics Engineering**.
+- 🤖 **Robotics & AI:** Experienced in **Computer Vision**, deep learning architectures, and visual sensor perception.
+- 🎮 **Game Dev & Graphics:** Passionate about real-time graphics, physics simulations, and gameplay mechanics using **Unity & C#**, alongside custom engine/state-machine development.
+- 🧱 **Full-Spectrum Engineering:** From low-level hardware and embedded systems logic to high-level OOP design, distributed systems, and Web3 protocols.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🎮 Game Development & Graphics
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- 2D/3D Gameplay Programming, State Machines, Physics & Collision Handling, Linear Algebra & Geometry.
+
+### 🧠 Robotics, AI & Computer Vision
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+- Image Processing, Feature Extraction, Neural Networks (CNNs, Transfer Learning, ResNet), Sensor Integration.
+
+### ⚙️ Core Engineering & Web3
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- Object-Oriented Design (OOP), Smart Contracts, Cryptographic Hashing, Distributed Applications.
+
+---
+
+## 🚀 Highlighted Repositories
+
+| Project | Domain | Description |
+| :--- | :--- | :--- |
+| **[deepfake-deeplearning](https://github.com/BillyErMago/deepfake-deeplearning)** | **AI / Vision** | Comparative binary classification pipeline testing a custom CNN vs. ResNet-50. |
+| **[GameGuard](https://github.com/BillyErMago/GameGuard)** | **Web3 / Security** | Decentralized video notarization & integrity verifier on Ethereum with MetaMask. |
+| **[Dr.Bubble](https://github.com/BillyErMago/Dr.Bubble)** | **Game Dev / Java** | Classic arcade Bubble Shooter featuring custom state management and game-loop logic. |
+| 🚧 *Upcoming:* **Unity 2D Platformer** | **Game Dev / Unity** | 2D action/platformer game developed in Unity (C#) & VS Code *(WIP)*. |
+
+---
+
+## 📈 Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BillyErMago&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Billy's GitHub Stats" />
+</div>
