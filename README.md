@@ -45,15 +45,16 @@ A Computer & Robotics Engineer with a strong foundation in **Electronics**, **Co
 
 ---
 
-## 🚀 Highlighted Repositories
+## 🚀 Highlighted Projects
 
-| Project | Domain | Description |
-| :--- | :--- | :--- |
-| **[deepfake-deeplearning](https://github.com/BillyErMago/deepfake-deeplearning)** | **AI / Vision** | Comparative binary classification pipeline testing a custom CNN vs. ResNet-50. |
-| **[GameGuard](https://github.com/BillyErMago/GameGuard)** | **Web3 / Security** | Decentralized video notarization & integrity verifier on Ethereum with MetaMask. |
-| **[Dr.Bubble](https://github.com/BillyErMago/Dr.Bubble)** | **Game Dev / Java** | Classic arcade Bubble Shooter featuring custom state management and game-loop logic. |
-| 🚧 *Upcoming:* **Unity 2D Platformer** | **Game Dev / Unity** | 2D action/platformer game developed in Unity (C#) & VS Code *(WIP)*. |
-
+| Repository | Domain | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **[deepfake-deeplearning](https://github.com/BillyErMago/deepfake-deeplearning)** | **Deep Learning / Vision** | `PyTorch` `Python` `OpenCV` | Comparative study evaluating a custom CNN against fine-tuned ResNet-50 for facial deepfake classification. |
+| **[GameGuard](https://github.com/BillyErMago/GameGuard)** | **Web3 / Security** | `Solidity` `Hardhat` `JavaScript` | Decentralized video integrity & notarization platform using smart contracts and MetaMask wallet integration. |
+| **[Job_Center_Database_PostgreSQL](https://github.com/BillyErMago/Job_Center_Database_PostgreSQL)** | **Database Systems** | `PostgreSQL` `PL/pgSQL` `SQL` | Full-lifecycle database design with analytical access cost optimization (~62% I/O reduction) and custom stored procedures. |
+| **[Laptop_comparison_ML](https://github.com/BillyErMago/Laptop_comparison_ML)** | **Machine Learning** | `Scikit-Learn` `Python` `Pandas` | Regression benchmark comparing Linear, Lasso, Ridge, and MLP Neural Networks with leakage-free `Pipeline` & `GridSearchCV`. |
+| **[Dr.Bubble](https://github.com/BillyErMago/Dr.Bubble)** | **Game Dev / Java** | `Java` `OOP` `2D Graphics` | Arcade Bubble Shooter clone built from scratch demonstrating OOP design patterns, game loops, and local state management. |
+| 🚧 *Upcoming:* **Unity 2D Platformer** | **Game Dev / Unity** | `Unity` `C#` `VS Code` | 2D action-platformer game focusing on custom physics, level design, and state-driven animations *(In Active Development)*. |
 ---
 
 ## 📈 Activity & Stats
