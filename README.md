@@ -7,7 +7,7 @@
 A Computer & Robotics Engineer with a strong foundation in **Electronics**, **Computer Vision/AI**, and **Software Architecture**, passionate about **Game Development** and **Interactive Graphics**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billal-nadi-526308253/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](nadibillal1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadibillal1@gmail.com)
 
 </div>
 
