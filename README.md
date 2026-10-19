@@ -30,11 +30,13 @@ A Computer & Robotics Engineer with a strong foundation in **Electronics**, **Co
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 - 2D/3D Gameplay Programming, State Machines, Physics & Collision Handling, Linear Algebra & Geometry.
 
-### 🧠 Robotics, AI & Computer Vision
+### 🧠 Robotics, Machine Learning, AI & Computer Vision
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-- Image Processing, Feature Extraction, Neural Networks (CNNs, Transfer Learning, ResNet), Sensor Integration.
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- Image Processing, Feature Extraction, Neural Networks (CNNs, Transfer Learning, ResNet), Scikit-Learn Pipelines & GridSearchCV, Computer Vision, Sensor Integration.
 
 ### 🗄️ Databases & Data Engineering
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -61,6 +63,7 @@ A Computer & Robotics Engineer with a strong foundation in **Electronics**, **Co
 | **[Laptop_Price_Comparison_ML](https://github.com/BillyErMago/Laptop_Price_Comparison_ML)** | **Machine Learning** | `Scikit-Learn` `Python` `Pandas` | Regression benchmark comparing Linear, Lasso, Ridge, and MLP Neural Networks with leakage-free `Pipeline` & `GridSearchCV`. |
 | **[Dr.Bubble](https://github.com/BillyErMago/Dr.Bubble)** | **Game Dev / Java** | `Java` `OOP` `2D Graphics` | Arcade Bubble Shooter clone built from scratch demonstrating OOP design patterns, game loops, and local state management. |
 | 🚧 *Upcoming:* **Unity 2D Platformer** | **Game Dev / Unity** | `Unity` `C#` `VS Code` | 2D action-platformer game focusing on custom physics, level design, and state-driven animations *(In Active Development)*. |
+
 ---
 
 ## 📈 Activity & Stats
