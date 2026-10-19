@@ -36,6 +36,12 @@ A Computer & Robotics Engineer with a strong foundation in **Electronics**, **Co
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 - Image Processing, Feature Extraction, Neural Networks (CNNs, Transfer Learning, ResNet), Sensor Integration.
 
+### 🗄️ Databases & Data Engineering
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-Procedural_SQL-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Relational_Data-lightgrey?style=for-the-badge)
+- Relational Schema Design (E-R), Analytical Access Cost Optimization, Stored Procedures, Triggers, Views & Complex Analytical Queries.
+
 ### ⚙️ Core Engineering & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,7 +58,7 @@ A Computer & Robotics Engineer with a strong foundation in **Electronics**, **Co
 | **[deepfake-deeplearning](https://github.com/BillyErMago/deepfake-deeplearning)** | **Deep Learning / Vision** | `PyTorch` `Python` `OpenCV` | Comparative study evaluating a custom CNN against fine-tuned ResNet-50 for facial deepfake classification. |
 | **[GameGuard](https://github.com/BillyErMago/GameGuard)** | **Web3 / Security** | `Solidity` `Hardhat` `JavaScript` | Decentralized video integrity & notarization platform using smart contracts and MetaMask wallet integration. |
 | **[Job_Center_Database_PostgreSQL](https://github.com/BillyErMago/Job_Center_Database_PostgreSQL)** | **Database Systems** | `PostgreSQL` `PL/pgSQL` `SQL` | Full-lifecycle database design with analytical access cost optimization (~62% I/O reduction) and custom stored procedures. |
-| **[Laptop_Price_Comparison_ML](https://github.com/BillyErMago/Laptop_comparison_ML)** | **Machine Learning** | `Scikit-Learn` `Python` `Pandas` | Regression benchmark comparing Linear, Lasso, Ridge, and MLP Neural Networks with leakage-free `Pipeline` & `GridSearchCV`. |
+| **[Laptop_Price_Comparison_ML](https://github.com/BillyErMago/Laptop_Price_Comparison_ML)** | **Machine Learning** | `Scikit-Learn` `Python` `Pandas` | Regression benchmark comparing Linear, Lasso, Ridge, and MLP Neural Networks with leakage-free `Pipeline` & `GridSearchCV`. |
 | **[Dr.Bubble](https://github.com/BillyErMago/Dr.Bubble)** | **Game Dev / Java** | `Java` `OOP` `2D Graphics` | Arcade Bubble Shooter clone built from scratch demonstrating OOP design patterns, game loops, and local state management. |
 | 🚧 *Upcoming:* **Unity 2D Platformer** | **Game Dev / Unity** | `Unity` `C#` `VS Code` | 2D action-platformer game focusing on custom physics, level design, and state-driven animations *(In Active Development)*. |
 ---
