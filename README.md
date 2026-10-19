@@ -57,7 +57,7 @@ A Computer & Robotics Engineer with a strong foundation in **Electronics**, **Co
 
 | Repository | Domain | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
-| **[deepfake-deeplearning](https://github.com/BillyErMago/deepfake-deeplearning)** | **Deep Learning / Vision** | `PyTorch` `Python` `OpenCV` | Comparative study evaluating a custom CNN against fine-tuned ResNet-50 for facial deepfake classification. |
+| **[DeepFake-DeepLearning](https://github.com/BillyErMago/DeepFake-DeepLearning)** | **Deep Learning / Vision** | `PyTorch` `Python` `OpenCV` | Comparative study evaluating a custom CNN against fine-tuned ResNet-50 for facial deepfake classification. |
 | **[GameGuard](https://github.com/BillyErMago/GameGuard)** | **Web3 / Security** | `Solidity` `Hardhat` `JavaScript` | Decentralized video integrity & notarization platform using smart contracts and MetaMask wallet integration. |
 | **[Job_Center_Database_PostgreSQL](https://github.com/BillyErMago/Job_Center_Database_PostgreSQL)** | **Database Systems** | `PostgreSQL` `PL/pgSQL` `SQL` | Full-lifecycle database design with analytical access cost optimization (~62% I/O reduction) and custom stored procedures. |
 | **[Laptop_Price_Comparison_ML](https://github.com/BillyErMago/Laptop_Price_Comparison_ML)** | **Machine Learning** | `Scikit-Learn` `Python` `Pandas` | Regression benchmark comparing Linear, Lasso, Ridge, and MLP Neural Networks with leakage-free `Pipeline` & `GridSearchCV`. |
